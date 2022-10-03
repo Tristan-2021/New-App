@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "772004513696",
+    "project_id": "new-app-proyect",
+    "storage_bucket": "new-app-proyect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772004513696:android:4f6de00833e9fd979786c5",
+        "android_client_info": {
+          "package_name": "com.newsoft.com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772004513696-f8ticnnjuli678k3edivub1gaqm5nd6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXRj_gnvuKb-oAhGfGzNHjHDaQkE0dKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772004513696-f8ticnnjuli678k3edivub1gaqm5nd6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "772004513696-kk3tarmirk803d46hiv5dv4vpg15h8la.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newsoft.com.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
